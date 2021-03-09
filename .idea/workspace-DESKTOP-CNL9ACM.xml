@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c323b27-c98c-41bc-89d9-441f445a8813" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fzWpGvaC1TDApbO7urwuu5bMMU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Code/JAVA/2019_" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="树" />
+      <recent name="树.time_9_10" />
+      <recent name="树.time_9_9" />
+      <recent name="树.time_9_8" />
+      <recent name="树.time_9_7" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\update\OneDrive - mail.sdu.edu.cn\JAVACODE\src\time_8_11" />
+      <recent name="D:\OneDrive\OneDrive - mail.sdu.edu.cn\JAVACODE\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.lc16最接近的三数之和">
+    <configuration name="lc16最接近的三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time_Sep.lc16最接近的三数之和" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="time_Sep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc3无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time_Sep.time_9_12.lc3无重复字符的最长子串" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="time_Sep.time_9_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc66_plusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.tim_8_13.lc66_plusOne" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.tim_8_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc748最短完整词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="哈希表.time_9_1.lc748最短完整词" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="哈希表.time_9_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="time_Sep.time_9_11.tst" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="time_Sep.time_9_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lc16最接近的三数之和" />
+        <item itemvalue="Application.lc66_plusOne" />
+        <item itemvalue="Application.lc3无重复字符的最长子串" />
+        <item itemvalue="Application.tst" />
+        <item itemvalue="Application.lc748最短完整词" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c323b27-c98c-41bc-89d9-441f445a8813" name="Default Changelist" comment="" />
+      <created>1597221582878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597221582878</updated>
+      <workItem from="1597221584132" duration="639000" />
+      <workItem from="1597235889886" duration="7407000" />
+      <workItem from="1597248262635" duration="1083000" />
+      <workItem from="1597281590106" duration="21708000" />
+      <workItem from="1597316023140" duration="11713000" />
+      <workItem from="1597374081886" duration="1837000" />
+      <workItem from="1597385731708" duration="26841000" />
+      <workItem from="1597452918818" duration="4625000" />
+      <workItem from="1597461235874" duration="10688000" />
+      <workItem from="1597490571080" duration="12935000" />
+      <workItem from="1597506686451" duration="4192000" />
+      <workItem from="1597541176537" duration="17996000" />
+      <workItem from="1597624713199" duration="2788000" />
+      <workItem from="1597638881935" duration="2333000" />
+      <workItem from="1597644945782" duration="4496000" />
+      <workItem from="1597740539230" duration="4806000" />
+      <workItem from="1597755650525" duration="764000" />
+      <workItem from="1597798579199" duration="25612000" />
+      <workItem from="1597891213331" duration="16784000" />
+      <workItem from="1597931159031" duration="6539000" />
+      <workItem from="1598056583518" duration="2538000" />
+      <workItem from="1598146303406" duration="6034000" />
+      <workItem from="1598231368714" duration="6834000" />
+      <workItem from="1598266733329" duration="7072000" />
+      <workItem from="1598409311249" duration="1910000" />
+      <workItem from="1598415139999" duration="14229000" />
+      <workItem from="1598446871152" duration="3768000" />
+      <workItem from="1598488863118" duration="10133000" />
+      <workItem from="1598504337808" duration="10536000" />
+      <workItem from="1598521273051" duration="16999000" />
+      <workItem from="1598574353692" duration="10936000" />
+      <workItem from="1598595333059" duration="509000" />
+      <workItem from="1598600133336" duration="17727000" />
+      <workItem from="1598665778912" duration="5882000" />
+      <workItem from="1598772468382" duration="664000" />
+      <workItem from="1598773148627" duration="556000" />
+      <workItem from="1598784316933" duration="2667000" />
+      <workItem from="1598834498548" duration="9132000" />
+      <workItem from="1598856059390" duration="9463000" />
+      <workItem from="1598920428428" duration="14621000" />
+      <workItem from="1598945357406" duration="620000" />
+      <workItem from="1599007039404" duration="11326000" />
+      <workItem from="1599097466060" duration="5539000" />
+      <workItem from="1599141757451" duration="798000" />
+      <workItem from="1599180562911" duration="9470000" />
+      <workItem from="1599309501818" duration="103000" />
+      <workItem from="1599402930628" duration="2032000" />
+      <workItem from="1599470379940" duration="13509000" />
+      <workItem from="1599486578514" duration="661000" />
+      <workItem from="1599526169153" duration="3173000" />
+      <workItem from="1599658164387" duration="1227000" />
+      <workItem from="1599700539871" duration="11500000" />
+      <workItem from="1599719459697" duration="22857000" />
+      <workItem from="1599745424972" duration="10174000" />
+      <workItem from="1599785205983" duration="1759000" />
+      <workItem from="1599787009543" duration="18346000" />
+      <workItem from="1599890009235" duration="6583000" />
+      <workItem from="1600049762338" duration="2055000" />
+      <workItem from="1600263795689" duration="96000" />
+      <workItem from="1600651596228" duration="6981000" />
+      <workItem from="1600669986894" duration="3268000" />
+      <workItem from="1600702140367" duration="210000" />
+      <workItem from="1600841035918" duration="19686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1600263803952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600263803952" />
+    <state x="716" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597890101544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597890101544" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1599526938287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599526938287" />
+    <state x="736" y="413" width="447" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599739812432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="413" width="447" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1599739812432" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599739876447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599739876447" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600702154894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600702154894" />
+    <state width="1340" height="328" key="GridCell.Tab.0.bottom" timestamp="1600870306788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600870306788" />
+    <state width="1340" height="328" key="GridCell.Tab.0.center" timestamp="1600870306788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600870306788" />
+    <state width="1340" height="328" key="GridCell.Tab.0.left" timestamp="1600870306788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600870306788" />
+    <state width="1340" height="328" key="GridCell.Tab.0.right" timestamp="1600870306788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600870306788" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1600870306788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600870306788" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center" timestamp="1600870306788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600870306788" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left" timestamp="1600870306788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600870306788" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right" timestamp="1600870306788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600870306788" />
+    <state x="600" y="223" key="NewModule_or_Project.wizard" timestamp="1597890272372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597890272372" />
+    <state x="464" y="168" key="SettingsEditor" timestamp="1600652307197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600652307197" />
+    <state x="662" y="118" width="596" height="804" key="find.popup" timestamp="1599895650051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="118" width="596" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599895650051" />
+    <state x="334" y="130" key="new project wizard" timestamp="1597890031238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1597890031238" />
+    <state x="661" y="276" key="refactoring.ChangeSignatureDialog" timestamp="1599787999154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="276" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599787999154" />
+    <state x="800" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1600841407308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="320" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600841407308" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/time_8_16/lc414第三大的数.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/time_8_22/剑指offer04二维数组的查找.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/字符串/time_8_27/NO_lc67二进制求和.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/字符串/time_8_27/NO_lc1496判断路径是否相交.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/字符串/time_8_28/YES_lc929独特的电子邮件地址.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/time_Sep/lc16最接近的三数之和.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/time_Sep/lc19删除链表的倒数第N个节点.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$lc989.ic" NAME="lc989数组形式的整数加法 Coverage Results" MODIFIED="1597893588289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>数组.time_8_20.*</FILTER>
+    </SUITE>
+  </component>
+</project>
