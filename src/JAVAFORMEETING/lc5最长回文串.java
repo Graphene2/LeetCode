@@ -67,10 +67,12 @@ public class lc5最长回文串 {
         for (int i = 0; i < sLen; i++) {
             if (i < maxRight){
                 // 当 p[mirror] < maxRight - i 时， p[i] = p[mirror];
-                // 当 p[mirror] = maxRight - i 时， p[i] 至少为
+                // 当 p[mirror] = maxRight - i 时， p[i] 至少为 p[mirror];
+                // 当 p[mirror] > maxRight - i 时， p[i] = maxRight - i;
                 int mirror = 2 * center - i;
                 p[i] = Math.min(maxRight - i, p[mirror]);
             }
+            // 如果i >= maxRight, 直接进行中心扩散获得 p[i]；
             int left = i - (1 + p[i]);
             int right = i + (1 + p[i]);
             while (left >= 0 && right < sLen && str.charAt(left) == s.charAt(right)){
@@ -78,8 +80,16 @@ public class lc5最长回文串 {
                 left--;
                 right++;
             }
+            if (i + p[i] > maxRight){
+                maxRight = i + p[i];
+                center = i;
+            }
+            if (p[i] > maxLen){
+                maxLen = p[i];
+                start = (i - maxLen) / 2;
+            }
         }
-
+        return s.substring(start,start + maxLen);
 
 
     }
