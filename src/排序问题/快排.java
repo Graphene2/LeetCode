@@ -22,8 +22,8 @@ public class 快排 {
         int i = left;
         int j = right;
         while (i < j){
-            // j向左移，直到遇到比key小的。
-            while(num[j] >= key && i<j){
+            // j向左移，直到遇到比key小的。为啥要先左移j，是为了使j与i相同终止循环时指向的值 <= pivot。这样的话将最后的 i 和left 交换就不会出问题。
+            while(num[j] >= key && i < j){
                 j--;
             }
             // i向右移，直到遇到比key大的。

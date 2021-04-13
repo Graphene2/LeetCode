@@ -10,7 +10,7 @@ import java.util.Stack;
  * @version: 1.0
  */
 public class lc94二叉树的中序遍历 {
-    // 使用递归方式进行中序遍历
+    // 使用递归方式进行中序遍历，左中右，二叉搜索树的中序遍历是有序的。
     List<Integer> ans;
     public List<Integer> inorderTraversal(TreeNode root) {
         ans = new ArrayList<>();

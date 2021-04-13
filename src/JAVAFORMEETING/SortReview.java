@@ -170,42 +170,8 @@ public class SortReview {
         return arr;
     }
 
-    // 7. 归并排序，分为各个子序列，先将子序列有序后慢慢合并
-    // 时间O(nlogn),空间O(n)
-    // 稳定排序。
-    public int[] mergeSort(int[] arr){
-        if (arr == null || arr.length < 2){
-            return arr;
-        }
-        int len = arr.length;
-        int mid = len / 2;
-        int[] leftArr = Arrays.copyOfRange(arr,0,mid);
-        int[] rightArr = Arrays.copyOfRange(arr,mid,len);
-        return merge(mergeSort(leftArr),mergeSort(rightArr));
-    }
 
-    private int[] merge(int[] lArr, int[] rArr) {
-        int[] res = new int[lArr.length + rArr.length];
-        // 合并两个有序数组
-        int index = 0, left = 0, right = 0;
-        while (index < res.length && left < lArr.length && right < rArr.length){
-            if (lArr[left] < rArr[right]){
-                res[index++] = lArr[left++];
-            }else {
-                res[index++] = rArr[right++];
-            }
-        }
-        if (left == lArr.length){
-            while (index < res.length){
-                res[index++] = rArr[right++];
-            }
-        }else if (right == rArr.length){
-            while (index < res.length){
-                res[index++] = lArr[left++];
-            }
-        }
-        return res;
-    }
+
 
     // 8. 基数排序，分别对每一个(个、十、百、千、万)进行排序
     // 每一轮排序的数组都放在arr中，然后进行再排序，这样从最开始保证了个位顺序、百位顺序。
